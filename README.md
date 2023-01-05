@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![Top Langs](github-readme-stats-martindobrusky.vercel.app/api/top-langs/?username=MartinDobrusky)](https://github.com/MartinDobrusky/github-readme-stats)
+<img src="github-readme-stats-martindobrusky.vercel.app/api/top-langs/?username=MartinDobrusky&show_icons=true" />
 
 <!--
 **MartinDobrusky/MartinDobrusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
